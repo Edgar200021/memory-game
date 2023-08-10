@@ -48,3 +48,7 @@
 .modal__btn:active {
   transform: translateY(-10px);
 }
+
+.hidden {
+  display: none;
+}
