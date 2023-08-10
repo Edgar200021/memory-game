@@ -1,0 +1,19 @@
+.moves-info {
+	max-width: 150px;
+	display: flex;
+	flex-direction: column;
+	row-gap: 10px;
+	font-size: 24px;
+	font-weight: 500;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.moves-info__text {
+	color: var(--primary-color);
+	
+}
+
+.moves-info__moves {
+	color: var(--secondary-color)
+}

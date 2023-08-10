@@ -1,0 +1,1 @@
+(()=>{function e(){const[e,t]=React.useState(0);return console.log(e),React.createElement("div",null,"Hello ",e)}console.log("hello"),ReactDOM.createRoot(document.getElementById("root")).render(React.createElement(e,null))})();

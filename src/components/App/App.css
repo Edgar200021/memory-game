@@ -1,0 +1,24 @@
+.app {
+	height: 100dvh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.app__inner {
+	width: 1000px;
+}
+
+.app__title {
+	color: var(--primary-color);
+	font-weight: 700;
+	font-size: 40px;
+	text-align: center;
+	margin-bottom: 150px;
+}
+
+.app__container {
+	display: flex;
+	column-gap: 80px;
+}
+
